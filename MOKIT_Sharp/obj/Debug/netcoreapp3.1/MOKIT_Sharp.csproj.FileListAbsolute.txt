@@ -1,0 +1,11 @@
+/Users/ryabuily/Projects/MOKIT_Sharp/MOKIT_Sharp/bin/Debug/netcoreapp3.1/MOKIT_Sharp
+/Users/ryabuily/Projects/MOKIT_Sharp/MOKIT_Sharp/bin/Debug/netcoreapp3.1/MOKIT_Sharp.deps.json
+/Users/ryabuily/Projects/MOKIT_Sharp/MOKIT_Sharp/bin/Debug/netcoreapp3.1/MOKIT_Sharp.runtimeconfig.json
+/Users/ryabuily/Projects/MOKIT_Sharp/MOKIT_Sharp/bin/Debug/netcoreapp3.1/MOKIT_Sharp.runtimeconfig.dev.json
+/Users/ryabuily/Projects/MOKIT_Sharp/MOKIT_Sharp/bin/Debug/netcoreapp3.1/MOKIT_Sharp.dll
+/Users/ryabuily/Projects/MOKIT_Sharp/MOKIT_Sharp/bin/Debug/netcoreapp3.1/MOKIT_Sharp.pdb
+/Users/ryabuily/Projects/MOKIT_Sharp/MOKIT_Sharp/obj/Debug/netcoreapp3.1/MOKIT_Sharp.csprojAssemblyReference.cache
+/Users/ryabuily/Projects/MOKIT_Sharp/MOKIT_Sharp/obj/Debug/netcoreapp3.1/MOKIT_Sharp.AssemblyInfoInputs.cache
+/Users/ryabuily/Projects/MOKIT_Sharp/MOKIT_Sharp/obj/Debug/netcoreapp3.1/MOKIT_Sharp.AssemblyInfo.cs
+/Users/ryabuily/Projects/MOKIT_Sharp/MOKIT_Sharp/obj/Debug/netcoreapp3.1/MOKIT_Sharp.dll
+/Users/ryabuily/Projects/MOKIT_Sharp/MOKIT_Sharp/obj/Debug/netcoreapp3.1/MOKIT_Sharp.pdb
